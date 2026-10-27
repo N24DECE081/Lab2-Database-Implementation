@@ -1,0 +1,3 @@
+class_id,student_code,first_name,last_name,email,enrollment_year,status
+1,CS26010,Minh,Nguyen,minh.nguyen@example.edu.vn,2026,active
+2,CS26011,Linh,Tran,linh.tran@example.edu.vn,2026,active

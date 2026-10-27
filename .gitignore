@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+node_modules/
+tmp/
+output/*.png
+output/*.xml
+output/*.json
+data/external/sakila-db.zip
+data/external/sakila-db/

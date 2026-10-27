@@ -1,0 +1,11 @@
+.git
+.venv
+node_modules
+__pycache__
+.pytest_cache
+tmp
+output
+.env
+*.pdf
+data/external/sakila-db.zip
+data/external/sakila-db/
